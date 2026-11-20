@@ -6,7 +6,7 @@
 ### Workspace Setup
 - [x] add [version control](steps-workspace.md#1-git-repository)
 - [x] setup [commitlint](steps-workspace.md#2-development-tools)
-- [ ] setup [branches](steps-workspace.md#3-setup-git-branches)
+- [x] setup [branches](steps-workspace.md#3-setup-git-branches)
 - [x] add docs
 ### App Solution Setup
 - [ ] define solution
