@@ -45,13 +45,13 @@
     git push
     ```
 ### 3. Setup git branches
-  - [ ] main<br>
+  - [x] main<br>
     protect it, require pull-requests, squash commits
-  - [ ] dev<br>
+  - [x] dev<br>
     protect it, require pull-requests, never rebase on main
-  - [ ] dev-by-feature<br>
+  - [x] dev-by-feature<br>
     always rebase on dev (merge commit, --no-ff) 
-  - [ ] fix<br>
+  - [x] fix<br>
     branch based on main. branch, cherry-pick to dev
 
 ### 4. Define actions to do
